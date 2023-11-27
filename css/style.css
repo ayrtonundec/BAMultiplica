@@ -30,3 +30,17 @@ body {
   display: flex;
   padding: 50px;
 }
+
+@media screen and (max-width: 768px) {
+  .titulo h1 {
+    color: brown; /* Cambia este valor al color que desees */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .parrafo {
+    color: brown; /* Cambia este valor al color que desees */
+  }
+}
+
+
